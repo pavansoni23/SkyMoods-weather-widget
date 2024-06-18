@@ -1,0 +1,11 @@
+h1 , h2{
+    text-decoration: underline;
+}
+
+.SearchBox{
+    margin-top: -2rem;
+}
+
+#city{
+    color: white;
+}
